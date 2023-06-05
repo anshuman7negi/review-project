@@ -1,8 +1,3 @@
-# landing-page
-This a project called portfolio web page.
+# review-project
+this is portfolio web page project.
 
-Demonstrated skills:
-
-HTML
-
-CSS 
